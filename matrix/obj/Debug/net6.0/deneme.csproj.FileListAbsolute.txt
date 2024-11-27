@@ -1,0 +1,15 @@
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/bin/Debug/net6.0/deneme
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/bin/Debug/net6.0/deneme.deps.json
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/bin/Debug/net6.0/deneme.runtimeconfig.json
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/bin/Debug/net6.0/deneme.dll
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/bin/Debug/net6.0/deneme.pdb
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/deneme.csproj.AssemblyReference.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/deneme.AssemblyInfoInputs.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/deneme.AssemblyInfo.cs
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/deneme.csproj.CoreCompileInputs.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/deneme.dll
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/refint/deneme.dll
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/deneme.pdb
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/deneme.genruntimeconfig.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/deneme/obj/Debug/net6.0/ref/deneme.dll
